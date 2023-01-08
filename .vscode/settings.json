@@ -1,0 +1,29 @@
+{
+    // ===
+    // EDITOR
+    // ===
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": false,
+        "source.fixAll": true
+    },
+    // ===
+    // Files (some rules stay with .editorconfig)
+    // ===
+    "files.trimFinalNewlines": true,
+    "files.exclude": {
+        "**/*.log": true,
+        "**/*.log*": true,
+        "**/dist": true,
+        "**/coverage": true
+    },
+    "files.associations": {
+        ".markdownlintrc": "jsonc"
+    },
+    "search.exclude": {
+        "out": true
+    },
+    // "python.pythonPath": "env/bin/python",
+    "python.languageServer": "Pylance",
+    "python.formatting.provider": "none"
+}
