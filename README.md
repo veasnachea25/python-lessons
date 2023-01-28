@@ -4,6 +4,7 @@
 https://www.python.org/
 https://pypi.org/
 https://learnpython.org/
+https://realpython.com/python-f-strings/
 ```
 
 
@@ -13,13 +14,10 @@ https://learnpython.org/
 # Check version
 $ python --verion    # show version 2
 $ python3 --verion   # show version 3
+$ pip3 --verion   # 
 
 # Run python script file
 $ python3 filename.py
-
-# Git command
-$ git clone <repository>
-$ git pull
 
 ```
 
@@ -49,6 +47,13 @@ $ pip freeze > requirements.txt
 $ python -m pip freeze > requirements.txt
 
 # Remove package
-$ pip uninstall <package>
+$ pip uninstall <package> 
+
+```
+
+
+# Vscode
+```
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 ```
