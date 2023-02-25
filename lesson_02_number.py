@@ -1,3 +1,4 @@
+import os
 import random
 from math import pi, sin, sqrt, floor, ceil
 
@@ -27,7 +28,7 @@ def arithmetic_operation():
     print('i =',i)
 
     j = 2
-    j -= 1 # the same as j = j + 1
+    j -= 1 # the same as j = j - 1
     print('j =',j)
 
     k = 2
@@ -61,6 +62,7 @@ def random_number():
 
 
 if __name__ == '__main__':
+    os.system('clear')
     arithmetic_operation()
     # mathematic_functions()
     # random_number()

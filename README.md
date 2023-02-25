@@ -19,6 +19,9 @@ $ pip3 --verion   #
 # Run python script file
 $ python3 filename.py
 
+# Remove Icon in Mac
+$ find . -name "Icon?" -print0 | xargs -0 rm -rf
+
 ```
 
 

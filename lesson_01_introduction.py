@@ -81,6 +81,7 @@ def special_characters():
 
 
 if __name__ == '__main__':
+    os.system('clear')
     # lesson_print()
     lesson_variable()
     # lesson_input()
