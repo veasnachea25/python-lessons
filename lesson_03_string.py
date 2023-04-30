@@ -139,10 +139,11 @@ def string_methods():
 
 
 def string_module():
-    print('digits           :', string.digits)
     print('ascii_lowercase  :', string.ascii_lowercase)
     print('ascii_uppercase  :', string.ascii_uppercase)
     print('ascii_letters    :', string.ascii_letters)
+    print('digits           :', string.digits)
+    print('punctuation      :', string.punctuation)
 
 
 

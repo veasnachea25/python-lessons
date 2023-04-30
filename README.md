@@ -5,6 +5,8 @@ https://www.python.org/
 https://pypi.org/
 https://learnpython.org/
 https://realpython.com/python-f-strings/
+https://www.w3schools.com/python/
+
 ```
 
 
